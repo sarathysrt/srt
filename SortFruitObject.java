@@ -10,6 +10,7 @@ public class SortFruitObject{
 		Fruit apple = new Fruit("Apple", "Apple description",100); 
 		Fruit orange = new Fruit("Orange", "Orange description",80); 
 		Fruit banana = new Fruit("Banana", "Banana description",90); 
+		
  
 		fruits[0]=pineappale;
 		fruits[1]=apple;
