@@ -2,6 +2,7 @@ import java.util.Arrays;
  
 public class SortFruitObject{
  
+ 
 	public static void main(String args[]){
  
 		Fruit[] fruits = new Fruit[4];
